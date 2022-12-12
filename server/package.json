@@ -6,7 +6,7 @@
     "start-local": "npm run build-client && PORT=8080 node server"
   },
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-pino-logger": "^4.0.0",
     "twilio": "^3.41.1"
   }
